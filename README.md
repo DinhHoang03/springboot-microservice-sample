@@ -71,4 +71,4 @@ Phần này mô tả các bước để cài đặt và chạy dự án trên m�
 Dự án này được học hỏi và xây dựng dựa trên series hướng dẫn chi tiết về Microservice của **Holy_dev**. Xin gửi lời cảm ơn đến tác giả vì nội dung chia sẻ giá trị.
 
 * **Link series:** [Spring Boot Microservices – Học từ số 0](https://www.youtube.com/playlist?list=PL3ZNQ7Ti-wWo5FoHyBtDfzX7DE15UPy4N)
-* **Link youtube chủ kênh:** [Holy_Dev](https://www.youtube.com/@dev-maniac2349/featured)
+* **Link chủ kênh youtube:** [Holy_Dev](https://www.youtube.com/@dev-maniac2349/featured)
