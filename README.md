@@ -2,7 +2,7 @@
 
 Đây là dự án mẫu triển khai kiến trúc Microservice sử dụng **Spring Boot** và **Java**. Mục tiêu của dự án là minh họa cách các dịch vụ (services) độc lập được xây dựng, giao tiếp và hoạt động cùng nhau trong một hệ thống phân tán.
 
-> **Tình trạng:** ⚠️ Dự án đang trong giai đoạn phát triển ban đầu.
+> **Tác giả:** Holy_Dev
 
 ## 1. 💻 Công nghệ (Technology Stack)
 
